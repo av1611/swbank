@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553708086102.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8626FF2B",
+    "lastKnownWriteTime" : 1553708326,
+    "last_content_update" : 1553708326105,
+    "path" : "~/Dropbox/Github1/swbank/R/ReadBalances.R",
+    "project_path" : "R/ReadBalances.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553690226344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C065251A",
+    "lastKnownWriteTime" : 1553708032,
+    "last_content_update" : 1553708032108,
+    "path" : "~/Dropbox/Github1/swbank/R/Transaction.R",
+    "project_path" : "R/Transaction.R",
+    "properties" : {
+        "cursorPosition" : "7,18",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551953380411.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1571601263",
+    "id" : "BE1800A7",
+    "lastKnownWriteTime" : 1553443213,
+    "last_content_update" : 1553443213379,
+    "path" : "C:/Users/avgr/Dropbox/Github1/swbank/R/Account.R",
+    "project_path" : "R/Account.R",
+    "properties" : {
+        "cursorPosition" : "17,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

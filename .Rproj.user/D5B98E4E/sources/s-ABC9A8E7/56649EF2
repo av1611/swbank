@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553713764871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56649EF2",
+    "lastKnownWriteTime" : 1553764515,
+    "last_content_update" : 1553764515739,
+    "path" : "~/Dropbox/Github1/swbank/R/ImportAccounts.R",
+    "project_path" : "R/ImportAccounts.R",
+    "properties" : {
+        "cursorPosition" : "31,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled5"
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

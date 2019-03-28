@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553708151707.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8590AE98",
+    "lastKnownWriteTime" : 1553708254,
+    "last_content_update" : 1553708254099,
+    "path" : "~/Dropbox/Github1/swbank/R/ReadTransactionList.R",
+    "project_path" : "R/ReadTransactionList.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

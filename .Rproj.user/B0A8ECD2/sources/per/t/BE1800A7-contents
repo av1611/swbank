@@ -1,0 +1,66 @@
+#' @title Account
+#'
+#' @name Account
+#'
+#' @aliases Account
+#'
+#' @param accountID accountID
+#' @param balance accountID
+#' @param currency  currency
+#'
+#' @description Creating an instance of the R6 class with the predefined fields.
+#'
+#' @return An instance of the R6 class with the predefined fields.
+#'
+#' @examples
+#'
+#' @export
+#'
+
+# Defining CIR6 class:  ---------------------------------------------
+Account <- R6Class(
+  classname = "Account",
+  public = list(
+    portable = FALSE,
+    cloneable = FALSE,
+
+    # CIR6 class fields ---------------------------------------------
+    accountID = "character",
+    balance = "numeric",
+    currency  = "character",
+
+    # CIR6 class initialize method ---------------------------------------------
+    initialize = function(
+      accountID = "0000",
+      balance = 0,
+      currency  = "euro"
+      ) {
+      self$accountID <- accountID
+      self$balance <- balance
+      self$currency  <- currency
+      self$currency  <- currency
+      },
+
+    # CIR6 class methods ---------------------------------------------
+    # setters
+    setAccountID = function(value) {
+      self$accountID <- value
+    },
+    setBalance = function(value) {
+      self$balance <- value
+    },
+    setCurrency = function(value) {
+      self$currency <- value
+    },
+    # getters
+    getAccountID = function() {
+      self$accountID
+    },
+    getBalance = function() {
+      self$balance
+    },
+    getCurrency = function() {
+      self$currency
+    }
+  )
+)

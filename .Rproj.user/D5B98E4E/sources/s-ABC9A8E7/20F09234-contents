@@ -1,0 +1,7 @@
+bic Bank Identifer Code Allowed values = [SANDEE2X, SANDLT22, SANDLV22]
+PSU-IP-Address The forwarded IP Address header field consists of the corresponding http request IP Address field between PSU and TPP.
+Date Standard https header element date and time
+Authorization Security header
+tpp-redirect-uri X-Request-ID ID of the request, unique to the call, as determined by the initiating party.
+tpp-nok-redirect-uri TPP nok redirecct-uri
+body PaymenJSONModel object

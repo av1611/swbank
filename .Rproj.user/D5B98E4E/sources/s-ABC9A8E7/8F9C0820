@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553707638654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8F9C0820",
+    "lastKnownWriteTime" : 1553708285,
+    "last_content_update" : 1553708285537,
+    "path" : "~/Dropbox/Github1/swbank/R/InitiateInternationalPayment.R",
+    "project_path" : "R/InitiateInternationalPayment.R",
+    "properties" : {
+        "cursorPosition" : "6,60",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

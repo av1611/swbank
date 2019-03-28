@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551954292015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2541827621",
+    "id" : "EC299F69",
+    "lastKnownWriteTime" : 1553442367,
+    "last_content_update" : 1553442367396,
+    "path" : "C:/Users/avgr/Dropbox/Github1/swbank/R/Transaction.R",
+    "project_path" : "R/Transaction.R",
+    "properties" : {
+        "cursorPosition" : "21,3",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

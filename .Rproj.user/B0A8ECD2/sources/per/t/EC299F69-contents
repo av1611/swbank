@@ -1,0 +1,116 @@
+#' @title Transaction
+#'
+#' @name Transaction
+#'
+#' @aliases Transaction
+#'
+#' @param accountID accountID
+#' @param bic  bic
+#' @param date date
+#' @param authorization authorization
+#' @param xRequestId xRequestId
+#' @param consentId consentId
+#' @param dateFrom  dateFrom
+#' @param dateTo  dateTo
+#'
+#' @description Creating an instance of the R6 class with the predefined fields.
+#'
+#' @return An instance of the R6 class with the predefined fields.
+#'
+#' @examples
+#'
+#' @export
+
+# Defining CIR6 class:  ---------------------------------------------
+Transaction <- R6Class(
+  classname = "Transaction",
+  public = list(
+    portable  = FALSE,
+    cloneable = FALSE,
+
+    # CIR6 class fields ---------------------------------------------
+    accountID     = "character",
+    bic           = "character",
+    date          = "character",
+    authorization = "character",
+    xRequestId    = "character",
+    consentId     = "character",
+    dateFrom      = "character",
+    dateTo        = "character",
+
+
+    # CIR6 class initialize method ---------------------------------------------
+    initialize = function(
+      accountID     = "0000",
+      bic           = "0000",
+      date          = "0000",
+      authorization = "0000",
+      xRequestId    = "0000",
+      consentId     = "0000",
+      dateFrom      = "0000",
+      dateTo        = "0000"
+    ) {
+      self$accountID      <- accountID
+      self$bic            <- bic
+      self$date           <- date
+      self$authorization  <- authorization
+      self$xRequestId     <- xRequestId
+      self$consentId      <- consentId
+      self$dateFrom       <- dateFrom
+      self$dateTo         <- dateTo
+    },
+
+    # CIR6 class methods ---------------------------------------------
+    # setters
+    setAccountID = function(value) {
+      self$accountID <- value
+    },
+    setBic = function(value) {
+      self$bic <- value
+    },
+    setDate = function(value) {
+      self$date <- value
+    },
+    setAuthorization = function(value) {
+      self$authorization <- value
+    },
+    setXRequestId = function(value) {
+      self$xRequestId <- value
+    },
+    setConsentId = function(value) {
+      self$consentId <- value
+    },
+    setDateFrom = function(value) {
+      self$dateFrom <- value
+    },
+    setDateTo = function(value) {
+      self$dateTo <- value
+    },
+    # getters
+    getAccountID = function() {
+      self$accountID
+    },
+    getBic = function() {
+      self$bic
+    },
+    getDate = function() {
+      self$date
+    },
+    getAuthorization = function() {
+      self$authorization
+    },
+    getXRequestId = function() {
+      self$xRequestId
+    },
+    getConsentId = function() {
+      self$consentId
+    },
+    getDateFrom = function() {
+      self$dateFrom
+    },
+    getDateTo = function() {
+      self$dateTo
+    }
+  )
+)
+

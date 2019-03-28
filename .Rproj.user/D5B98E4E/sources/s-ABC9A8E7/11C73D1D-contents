@@ -1,0 +1,27 @@
+x <- read.csv("R/dummy_data.csv")
+x$Balance <- round(x$Balance, digits = 0)
+x$AccoundID <- as.factor(x$AccoundID)
+bic.array <- c("SANDEE2X", "SANDLT22", "SANDLV22")
+bic.array1 <- sample(1:length(bic.array), 100, replace = T)
+for ( i in 1:length(bic.array1)) {
+  # if (bic.array1[i] == 1) {
+  #   bic.array1[i] <- "SANDEE2X"
+  # }
+  # if (bic.array1[i] == 2) {
+  #   bic.array1[i] <- "SANDLT22"
+  # }
+  if (bic.array1[i] == 3) {
+    bic.array1[i] <- "SANDLV22"
+  }
+} 
+
+x$Bic <- bic.array1
+
+
+acc.id <- sample(100)
+x$AccoundID <- acc.id
+
+x$Name
+name1 <- grep(x$Name, pattern = " ")
+
+write.csv(x, "dummy_data.csv")

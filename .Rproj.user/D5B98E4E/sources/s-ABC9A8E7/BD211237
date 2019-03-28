@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553706302379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BD211237",
+    "lastKnownWriteTime" : 1553708319,
+    "last_content_update" : 1553708319433,
+    "path" : "~/Dropbox/Github1/swbank/R/ListSpecificAccount.R",
+    "project_path" : "R/ListSpecificAccount.R",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

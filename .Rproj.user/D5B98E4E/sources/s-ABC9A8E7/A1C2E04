@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553763710051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1884938775",
+    "id" : "A1C2E04",
+    "lastKnownWriteTime" : 1553772834,
+    "last_content_update" : 1553772834640,
+    "path" : "~/Dropbox/Github1/swbank/tests/testthat/test_Bic_Validation.R",
+    "project_path" : "tests/testthat/test_Bic_Validation.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

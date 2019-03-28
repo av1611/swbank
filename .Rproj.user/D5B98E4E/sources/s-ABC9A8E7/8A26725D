@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553708060419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A26725D",
+    "lastKnownWriteTime" : 1553708308,
+    "last_content_update" : 1553708308610,
+    "path" : "~/Dropbox/Github1/swbank/R/listAccounts.r",
+    "project_path" : "R/listAccounts.r",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
